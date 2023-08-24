@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537500760535",
+    "firebase_url": "https://etrac-c70aa-default-rtdb.firebaseio.com",
+    "project_id": "etrac-c70aa",
+    "storage_bucket": "etrac-c70aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537500760535:android:900b3843a29dc4d8443392",
+        "android_client_info": {
+          "package_name": "com.example.etrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537500760535-8l8njuq4q8ddepq32q19lp7amvtv69ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTU3yB7YNfNR1Jla-Oa9lbQy4PNiLEgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537500760535-8l8njuq4q8ddepq32q19lp7amvtv69ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

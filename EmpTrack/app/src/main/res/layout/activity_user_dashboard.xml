@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".user_dashboard">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/logo"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:gravity="center"
+        android:text="@string/please_select_an_option"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/admin"
+        android:layout_width="171dp"
+        android:layout_height="25pt"
+        android:layout_margin="25dp"
+        android:text="@string/admin" />
+
+    <Button
+        android:id="@+id/employee"
+        android:layout_width="176dp"
+        android:layout_height="25pt"
+        android:layout_margin="25dp"
+        android:text="@string/employee" />
+
+    <Button
+        android:id="@+id/logout"
+        android:text="@string/logout"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        />
+
+
+</LinearLayout>
